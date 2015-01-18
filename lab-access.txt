@@ -1,0 +1,26 @@
+
+There are six machines in the Lab to use for your work.
+------------
+hostname:
+
+hp04
+hp05
+hp06
+hp07
+hp08
+hp09
+
+domain: eecs.cwru.edu
+--------------------------------------------------------------------
+You may login in the console using the group login name/passwd that
+I will send you. You can also login remotely using ssh, for example:
+
+ssh team05@hp04.eecs.cwru.edu
+
+in text mode, or to do it in graphics mode:
+
+ssh -X team05@hp04.eecs.cwru.edu
+
+You can use any of the machines for your work with the password I will mail to you.
+However, to change your password you should use the "yppasswd" command
+so that your change affects all machines.
